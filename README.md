@@ -7,7 +7,7 @@
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]([YOUR_FACEBOOK_URL](https://www.facebook.com/people/Khoa-%C4%90%C4%83ng/61577345287365/))
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)]([(https://www.facebook.com/people/Khoa-%C4%90%C4%83ng/61577345287365/)])
 
 ## 💻 Tech Stack:
 
